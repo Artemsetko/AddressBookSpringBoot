@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/14_AddressBookSpringBoot.iml" filepath="$PROJECT_DIR$/.idea/modules/14_AddressBookSpringBoot.iml" group="14_AddressBookSpringBoot" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/14_AddressBookSpringBoot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/14_AddressBookSpringBoot_main.iml" group="14_AddressBookSpringBoot" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/14_AddressBookSpringBoot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/14_AddressBookSpringBoot_test.iml" group="14_AddressBookSpringBoot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot.iml" group="AddressBookSpringBoot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot_main.iml" group="AddressBookSpringBoot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot_test.iml" group="AddressBookSpringBoot" />
     </modules>
   </component>
 </project>

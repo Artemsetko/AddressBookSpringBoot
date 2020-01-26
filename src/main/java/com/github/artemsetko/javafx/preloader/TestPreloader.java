@@ -26,7 +26,7 @@ public class TestPreloader extends Preloader {
 
         // показ окна загрузки
         Platform.runLater(() -> {
-            Label title = new Label("Инициализация...");
+            Label title = new Label("Initialize...");
 
             title.setTextAlignment(TextAlignment.CENTER);
             bar = new ProgressIndicator();
