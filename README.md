@@ -8,7 +8,7 @@ You can add, edit, delete and search for contacts.
 List of technologies: Spring Boot, Spring Core, Spring Data JPA, JPA/Hibernate,
 JavaFX, SQLite, Gradle, Lombok,
 
-##Screens
+## Screens
 
 ![](img/1.png)
 
